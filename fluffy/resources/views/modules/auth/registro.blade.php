@@ -1,4 +1,3 @@
-@section('contenido')
 <!doctype html>
 <html lang="en">
 
@@ -75,5 +74,3 @@
 </body>
 
 </html>
-
-@endsection
